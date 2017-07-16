@@ -1,1 +1,2 @@
-New Git test file ha_test001.txt
+New1 Git test file ha_test001.txt
+New2 Git test file ha_test001.txt
